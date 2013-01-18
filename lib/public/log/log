@@ -1,0 +1,48 @@
+Error: *Error in loading object '/secure/lib/obj/user'
+
+Current object: /secure/lib/obj/login#0
+Current program: /secure/lib/obj/login.c
+File: "/secure/lib/obj/login.c" Line: 27
+"Line: 27  File: "/secure/lib/obj/login.c" Object: /secure/lib/obj/login#0 Program: "/secure/lib/obj/login.c""
+Error: *Error in loading object '/secure/lib/obj/user'
+
+Current object: /secure/lib/obj/login#0
+Current program: /secure/lib/obj/login.c
+File: "/secure/lib/obj/login.c" Line: 27
+"Line: 27  File: "/secure/lib/obj/login.c" Object: /secure/lib/obj/login#0 Program: "/secure/lib/obj/login.c""
+Error: *Error in loading object '/secure/lib/obj/user'
+
+Current object: /secure/lib/obj/login#0
+Current program: /secure/lib/obj/login.c
+File: "/secure/lib/obj/login.c" Line: 27
+"Line: 27  File: "/secure/lib/obj/login.c" Object: /secure/lib/obj/login#0 Program: "/secure/lib/obj/login.c""
+Error: *Error in loading object '/secure/lib/obj/user'
+
+Current object: /secure/lib/obj/login#0
+Current program: /secure/lib/obj/login.c
+File: "/secure/lib/obj/login.c" Line: 25
+"Line: 25  File: "/secure/lib/obj/login.c" Object: /secure/lib/obj/login#0 Program: "/secure/lib/obj/login.c""
+Error: *Error in loading object '/secure/lib/obj/user'
+
+Current object: /secure/lib/obj/login#0
+Current program: /secure/lib/obj/login.c
+File: "/secure/lib/obj/login.c" Line: 25
+"Line: 25  File: "/secure/lib/obj/login.c" Object: /secure/lib/obj/login#0 Program: "/secure/lib/obj/login.c""
+Error: *Error in loading object '/secure/lib/obj/user'
+
+Current object: /secure/lib/obj/login#0
+Current program: /secure/lib/obj/login.c
+File: "/secure/lib/obj/login.c" Line: 25
+"Line: 25  File: "/secure/lib/obj/login.c" Object: /secure/lib/obj/login#0 Program: "/secure/lib/obj/login.c""
+Error: *Error in loading object '/public/cmds/eval'
+
+Current object: /secure/lib/obj/user#1
+Current program: /secure/lib/obj/user.c
+File: "/secure/lib/obj/user.c" Line: 148
+"Line: 148  File: "/secure/lib/obj/user.c" Object: /secure/lib/obj/user#1 Program: "/secure/lib/obj/user.c""
+Error: *Error in loading object '/public/cmds/eval'
+
+Current object: /secure/lib/obj/user#1
+Current program: /secure/lib/obj/user.c
+File: "/secure/lib/obj/user.c" Line: 148
+"Line: 148  File: "/secure/lib/obj/user.c" Object: /secure/lib/obj/user#1 Program: "/secure/lib/obj/user.c""

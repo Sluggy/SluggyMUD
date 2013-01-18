@@ -1,0 +1,13 @@
+
+/secure/lib/obj/user.c line 7: syntax error before ;
+/secure/lib/obj/user.c line 7: syntax error before ;
+/secure/lib/obj/user.c line 7: syntax error before ;
+/secure/lib/obj/user.c line 7: syntax error before ;
+/secure/lib/obj/user.c line 7: syntax error before ;
+/secure/lib/obj/user.c line 13: syntax error before ;
+/secure/lib/obj/user.c line 157: Warning: Unused local variable 'cmd_path' before the end of line
+/secure/lib/obj/user.c line 157: Warning: Unused local variable 'cmd_path' before the end of line
+/public/cmds/eval.c line 4: Undefined variable 'TMP_EVAL_FILE'
+/public/cmds/eval.c line 7: Too few arguments to find_object
+/public/cmds/eval.c line 4: Undefined variable 'TMP_EVAL_FILE'
+/public/cmds/eval.c line 7: Too few arguments to find_object
